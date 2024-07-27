@@ -19,4 +19,4 @@ This project uses a logistic regression model to predict Bitcoin price movements
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/bitcoin-price-prediction.git
+   git clone https://github.com/BismaArshad/817/bitcoin-price-prediction.git
