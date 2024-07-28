@@ -11,8 +11,6 @@ This project uses a logistic regression model to predict Bitcoin price movements
 ## Files
 
 - `bitcoin_price_prediction.ipynb`: Jupyter notebook with model training and Streamlit app code.
-- `bitcoin_model.pkl`: Trained logistic regression model.
-- `scaler.pkl`: StandardScaler used for feature normalization.
 
 ## Setup
 
