@@ -5,8 +5,6 @@ This project uses a logistic regression model to predict Bitcoin price movements
 ## Project Overview
 
 - **Data**: Historical Bitcoin prices from 2014 to 2024.
-- **Model**: Logistic Regression model trained to predict whether the Bitcoin price will go up or down.
-- **Streamlit App**: User interface to input data and get predictions.
 
 ## Files
 
